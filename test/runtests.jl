@@ -2,7 +2,7 @@ using Test
 
 using NewsLookout
 
-println(readdir("/home/runner/work/NewsLookout.jl/"))
+# println(readdir("./"))
 
 
 @test NewsLookout.greet() == "-- The NewsLookout Web Scraping App ---"
