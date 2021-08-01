@@ -1,6 +1,6 @@
 using Documenter
 
-include("../src/newslookout.jl")
+include("../src/NewsLookout.jl")
 
 
 makedocs(
