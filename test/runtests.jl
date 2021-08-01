@@ -2,8 +2,6 @@ using Test
 
 using NewsLookout
 
-# println(readdir("./"))
-
 
 @test NewsLookout.greet() == "-- The NewsLookout Web Scraping App ---"
 
