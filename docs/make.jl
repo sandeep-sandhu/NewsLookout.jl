@@ -1,6 +1,6 @@
 using Documenter
 
-include("..\\src\\newslookout.jl")
+include("../src/newslookout.jl")
 
 
 makedocs(
@@ -12,4 +12,4 @@ makedocs(
 # Documenter can also automatically deploy documentation to gh-pages.
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
-# deploydocs(repo = "github.com/sandeepsandhu/newslookout.jl.git")
+deploydocs(repo = "github.com/sandeep-sandhu/NewsLookout.jl.git")
