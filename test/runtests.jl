@@ -1,6 +1,6 @@
 using Test
 
-using NewsLookout
+using newslookout
 
 # include("../src/newslookout.jl")
 
