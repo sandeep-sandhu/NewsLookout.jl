@@ -1,0 +1,20 @@
+name = "NewsLookout"
+uuid = "48ea66d6-70bf-4733-809e-20017acf6e3b"
+authors = ["Sandeep Singh Sandhu <sandeep.sandhu@gmx.com>"]
+version = "0.0.1"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

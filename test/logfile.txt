@@ -1,0 +1,2 @@
+┌ Info: Started logging.
+└ @ Main.NewsLookout C:\Users\SandeepSandhu\Documents\src\julia_projs\NewsLookout.jl\src\newslookout.jl:29
